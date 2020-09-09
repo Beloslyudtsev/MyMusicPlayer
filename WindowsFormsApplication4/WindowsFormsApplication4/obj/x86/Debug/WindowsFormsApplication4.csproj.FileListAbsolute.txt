@@ -1,0 +1,42 @@
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\veryb\OneDrive\Рабочий стол\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb

@@ -1,0 +1,14 @@
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.pdb
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Interop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\AxInterop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojAssemblyReference.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Interop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\AxInterop.WMPLib.dll
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.ResolveComReference.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.exe
+E:\Maxim_Chek\Important\Study\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.pdb
